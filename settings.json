@@ -1,0 +1,17 @@
+{
+    "vim.otherModesKeyBindingsNonRecursive": [ 
+     { 
+         "before": ["u"], 
+         "after": [],
+         "commands": [
+             {
+                 "command": "undo", 
+                 "args": []
+             }
+         ] 
+     } 
+ ],
+
+
+
+}
