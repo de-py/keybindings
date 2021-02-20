@@ -22,5 +22,6 @@
     "vim.foldfix": true,
     "vim.leader": ",",
     "vim.sneak": true,
+    "vim.vimrc.enable": true
 
 }
