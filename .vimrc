@@ -39,7 +39,7 @@ Plug 'romkatv/powerlevel10k'
 Plug 'powerline/powerline'
 
 " powerline
-set rtp+=(install_location)/powerline/bindings/vim
+set rtp+=~/.vim/plugged/powerline/powerline/bindings/vim
 set laststatus=2
 set t_Co=256
 
